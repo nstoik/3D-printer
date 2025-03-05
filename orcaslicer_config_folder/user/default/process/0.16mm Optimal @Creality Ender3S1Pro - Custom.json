@@ -1,0 +1,14 @@
+{
+    "exclude_object": "1",
+    "from": "User",
+    "inherits": "0.16mm Optimal @Creality Ender3S1Pro",
+    "initial_layer_infill_speed": "45",
+    "initial_layer_speed": "30",
+    "is_custom_defined": "0",
+    "name": "0.16mm Optimal @Creality Ender3S1Pro - Custom",
+    "print_settings_id": "0.16mm Optimal @Creality Ender3S1Pro - Custom",
+    "seam_slope_conditional": "1",
+    "seam_slope_type": "all",
+    "staggered_inner_seams": "1",
+    "version": "2.2.0.4"
+}
