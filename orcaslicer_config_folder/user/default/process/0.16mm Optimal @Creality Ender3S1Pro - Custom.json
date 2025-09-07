@@ -1,4 +1,5 @@
 {
+    "enable_support": "1",
     "exclude_object": "1",
     "from": "User",
     "inherits": "0.16mm Optimal @Creality Ender3S1Pro",
@@ -9,6 +10,9 @@
     "print_settings_id": "0.16mm Optimal @Creality Ender3S1Pro - Custom",
     "seam_slope_conditional": "1",
     "seam_slope_type": "all",
+    "skirt_loops": "0",
     "staggered_inner_seams": "1",
+    "support_style": "default",
+    "support_type": "tree(manual)",
     "version": "2.2.0.4"
 }

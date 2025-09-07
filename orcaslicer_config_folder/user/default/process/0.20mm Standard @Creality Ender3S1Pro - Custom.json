@@ -1,4 +1,5 @@
 {
+    "enable_support": "1",
     "exclude_object": "1",
     "filename_format": "{input_filename_base}_{filament_type[initial_tool]}.gcode",
     "from": "User",
@@ -12,7 +13,11 @@
     "print_settings_id": "0.20mm Standard @Creality Ender3S1Pro - Custom",
     "seam_slope_conditional": "1",
     "seam_slope_type": "all",
+    "skirt_loops": "0",
+    "sparse_infill_pattern": "gyroid",
     "staggered_inner_seams": "1",
+    "support_style": "default",
+    "support_type": "tree(manual)",
     "version": "2.2.0.4",
     "wall_loops": "3"
 }

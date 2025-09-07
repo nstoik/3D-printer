@@ -1,0 +1,31 @@
+{
+    "compatible_printers": [
+        "Creality Ender-3 S1 Pro 0.4 nozzle"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.97"
+    ],
+    "filament_settings_id": [
+        "RepRapper PLA Silk - Calibrated"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA Silk @System",
+    "is_custom_defined": "0",
+    "name": "RepRapper PLA Silk - Calibrated",
+    "nozzle_temperature": [
+        "205"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "205"
+    ],
+    "pressure_advance": [
+        "0.03244"
+    ],
+    "slow_down_layer_time": [
+        "1"
+    ],
+    "version": "2.3.0.2"
+}
